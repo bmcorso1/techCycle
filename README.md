@@ -1,0 +1,2 @@
+# techCycle
+NittanyAI project
